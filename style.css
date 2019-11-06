@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  }
+img {
+  width: 200px;
+}
+p {
+    color: #EB4D4D;
+    font-size: 30px;
+    display: inline-inline-block;
+}
+.container {
+  width: 50%;
+  background-color: #96d1c7;
+  position: absolute;
+  height: 600px;
+}
+.player1 {
+  width: 40%;
+  position: relative;
+  top: 50px;
+}
+.player2 {
+  width: 40%;
+  position: relative;
+  left: 300px;
+  bottom: 315px;
+}
+.result {
+  position: relative;
+  bottom: 300px;
+  color: #EB4D4D;
+}
